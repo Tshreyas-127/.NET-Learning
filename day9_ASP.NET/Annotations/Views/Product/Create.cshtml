@@ -1,0 +1,23 @@
+﻿@model Annotation.Models.ProductModel
+
+<h2>Create New Product</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(m=> m.Name)
+        @Html.TextBoxFor(m => m.Name)
+        @Html.ValidationMessageFor(m => m.Name)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Price)
+        @Html.TextBoxFor(m => m.Price)
+        @Html.ValidationMessageFor(m => m.Price)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.StockLevel)
+        @Html.TextBoxFor(m => m.StockLevel)
+        @Html.ValidationMessageFor(m => m.StockLevel)
+    </div>
+    <button type="submit">Create</button>
+}
