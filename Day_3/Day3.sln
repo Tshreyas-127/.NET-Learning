@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emp2Assign", "Emp2Assign\Emp2Assign.csproj", "{EE94E1D5-3B21-448F-8D07-C6B84DD4D592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{B0BD4F13-51D5-484C-B007-754876146517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{2609BE0A-04C0-4364-867E-90C7975D141B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces2", "Interfaces2\Interfaces2.csproj", "{010622E3-596F-4746-9B29-BF611A7036F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces3", "Interfaces3\Interfaces3.csproj", "{75ABD8E4-9A1D-4B6B-BA60-20011BB35CF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultImplementationInterfaces", "DefaultImplementationInterfaces\DefaultImplementationInterfaces.csproj", "{73C20FAD-0FED-4B29-B289-1F1BFEE615DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefAndValue", "RefAndValue\RefAndValue.csproj", "{B3174E37-9590-4C63-AFCC-D2B56F872A0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE94E1D5-3B21-448F-8D07-C6B84DD4D592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE94E1D5-3B21-448F-8D07-C6B84DD4D592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE94E1D5-3B21-448F-8D07-C6B84DD4D592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE94E1D5-3B21-448F-8D07-C6B84DD4D592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0BD4F13-51D5-484C-B007-754876146517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BD4F13-51D5-484C-B007-754876146517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BD4F13-51D5-484C-B007-754876146517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BD4F13-51D5-484C-B007-754876146517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2609BE0A-04C0-4364-867E-90C7975D141B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2609BE0A-04C0-4364-867E-90C7975D141B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2609BE0A-04C0-4364-867E-90C7975D141B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2609BE0A-04C0-4364-867E-90C7975D141B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{010622E3-596F-4746-9B29-BF611A7036F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010622E3-596F-4746-9B29-BF611A7036F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010622E3-596F-4746-9B29-BF611A7036F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010622E3-596F-4746-9B29-BF611A7036F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75ABD8E4-9A1D-4B6B-BA60-20011BB35CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75ABD8E4-9A1D-4B6B-BA60-20011BB35CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75ABD8E4-9A1D-4B6B-BA60-20011BB35CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75ABD8E4-9A1D-4B6B-BA60-20011BB35CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C20FAD-0FED-4B29-B289-1F1BFEE615DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C20FAD-0FED-4B29-B289-1F1BFEE615DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C20FAD-0FED-4B29-B289-1F1BFEE615DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C20FAD-0FED-4B29-B289-1F1BFEE615DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3174E37-9590-4C63-AFCC-D2B56F872A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3174E37-9590-4C63-AFCC-D2B56F872A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3174E37-9590-4C63-AFCC-D2B56F872A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3174E37-9590-4C63-AFCC-D2B56F872A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C4A7734-4B83-4AD3-809B-381E8EA16984}
+	EndGlobalSection
+EndGlobal
